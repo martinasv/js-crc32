@@ -1,5 +1,5 @@
 {
-  "name": "tinycrc32",
+  "name": "@wobwob/tinycrc32",
   "version": "0.1.0",
   "description": "A very small (<1kb minified) crc32 library for browsers",
   "main": "crc32.js",
@@ -19,5 +19,9 @@
     "browser"
   ],
   "author": "James Hartig <fastest963@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fastest963/js-crc32/issues"
+  },
+  "homepage": "https://github.com/fastest963/js-crc32#readme"
 }
